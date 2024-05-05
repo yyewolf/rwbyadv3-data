@@ -1,0 +1,15 @@
+id: ruby
+name: Ruby Rose
+type: character
+team: RWBY
+categories: [Team RWBY]
+base_stats:
+  health: 175
+  armor: 15
+  damage: 52
+  healing: 0
+  speed: 5
+variants:
+- id: ruby/summer
+  name: Ruby Rose Summer Edition
+  categories: [Team RWBY, Summer]
