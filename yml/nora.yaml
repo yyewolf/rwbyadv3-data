@@ -1,0 +1,11 @@
+id: nora
+name: Nora Valkyrie
+type: character
+team: RWBY
+categories: [Team RWBY]
+base_stats:
+  health: 185
+  armor: 32
+  damage: 47
+  healing: 0
+  speed: 5
