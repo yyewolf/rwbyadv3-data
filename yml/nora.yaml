@@ -1,8 +1,8 @@
 id: nora
 name: Nora Valkyrie
 type: character
-team: RWBY
-categories: [Team RWBY]
+team: JNPR
+categories: [Team JNPR]
 base_stats:
   health: 185
   armor: 32
